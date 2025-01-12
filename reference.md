@@ -1,2 +1,0 @@
-**Reference / Inspiration**
-[link](https)

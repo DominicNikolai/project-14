@@ -32,7 +32,6 @@ body {
     floralwhite;
 
   background-size: 8em 8em, 6em 6em, 2em 2em;
-
   background-blend-mode: multiply;
   background-position: 0 0, -33% -33%, -200% -200%;
 }
