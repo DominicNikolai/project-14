@@ -24,7 +24,6 @@ body {
     radial-gradient(cyan, cyan 50%, transparent 50%, transparent 100%),
     radial-gradient(magenta, magenta 40%, transparent 40%, transparent 100%),
     floralwhite;
-
   background-size: 8em 8em, 6em 6em, 2em 2em;
   background-blend-mode: multiply;
   background-position: 0 0, -33% -33%, -200% -200%;
